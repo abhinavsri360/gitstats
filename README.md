@@ -7,9 +7,9 @@
 
 [![Edit git-stats](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/akashraj9828/gitstats/tree/master/?fontsize=14&hidenavigation=1&theme=dark)
 
-## Contributors  <a href="https://github.com/akashraj9828/gitstats/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=akashraj9828/gitstats" />
- </a>
+## Contributors  
+Thank you everyone for contributing to this wonderful project!!
+<a href="https://github.com/akashraj9828/gitstats/graphs/contributors"><img src="https://contributors-img.firebaseapp.com/image?repo=akashraj9828/gitstats" alt="Image of contributors"></a>
 
 
 ![Input](output/home.png)
