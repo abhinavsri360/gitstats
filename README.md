@@ -9,7 +9,7 @@
 
 ## Contributors  
 Thank you everyone for contributing to this wonderful project!!
-<a href="https://github.com/akashraj9828/gitstats/graphs/contributors"><img src="https://contributors-img.firebaseapp.com/image?repo=akashraj9828/gitstats" alt="Image of contributors"></a>
+<a href="https://github.com/akashraj9828/gitstats/graphs/contributors"><img src="https://contributors-img.firebaseapp.com/image?repo=abhinavsri360/gitstats" alt="Image of contributors"></a>
 
 
 ![Input](output/home.png)
